@@ -20,6 +20,7 @@ Po latach w handlu mam zamiar zacząć pracę i rozwój w branży IT.
 🟢 Podstawy React  
 🟠 Praktyka React + styled-components ⏳  
 🟠 Testy jednostkowe ⏳  
+🟠 Praktyka Jest + Testing Library ⏳  
 ⚫ Powtórka podstaw PHP  
 ⚫ Praktyka PHP + Laravel  
 ⚫ Angular  
