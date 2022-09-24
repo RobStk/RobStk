@@ -18,13 +18,13 @@ Po latach w handlu mam zamiar zacząć pracę i rozwój w branży IT.
 🟢 Rest API  
 🟢 Powtórka JQuery  
 🟢 Podstawy React  
+🟢 Testy jednostkowe  
 🟠 Praktyka React + styled-components ⏳  
-🟠 Testy jednostkowe ⏳  
 🟠 Praktyka Jest + Testing Library ⏳  
 ⚫ Powtórka podstaw PHP  
 ⚫ Praktyka PHP + Laravel  
-⚫ Angular  
 ⚫ TypeScript  
+⚫ Angular  
 ⚫ ...  
 
 <br>
