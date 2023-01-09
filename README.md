@@ -14,18 +14,20 @@ Po latach w handlu mam zamiar zacząć pracę i rozwój w branży IT.
 
 🟢 Powtórka podstaw Vanilla JS  
 🟢 Podstawy pracy z Git  
-🟢 Praktyka Vanilla JS + Node.js  
-🟢 Rest API  
+🟢 Praktyka Vanilla JS  
+🟢 Podstawy pracy z Node  
+🟢 Podstawy pracy z Rest API  
 🟢 Powtórka JQuery  
 🟢 Podstawy React  
 🟢 Testy jednostkowe  
 🟢 Praktyka React + styled-components  
 🟢 Praktyka Jest + Testing Library  
+🟢 TDD  
 🟢 Praktyka Sass/SCSS  
-🟠 Powtórka podstaw PHP ⏳  
-⚫ Praktyka PHP + Laravel  
-⚫ TypeScript  
+🟢 Powtórka podstaw PHP  
+🟠 TypeScript ⏳  
 ⚫ Angular  
+⚫ Praktyka PHP + Laravel  
 ⚫ ...  
 
 <br>
